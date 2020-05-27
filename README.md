@@ -6,13 +6,13 @@ Backend server can be found in my other repository: https://github.com/LuciBurcu
 
 If the backend is not available/a problem arises, the operations will log an error.
 
-GET operation -> press the refresh icon ( called on app open by default )
+**GET** operation -> press the refresh icon ( called on app open by default )
 
-CREATE operation -> press the add icon
+**CREATE** operation -> press the add icon
 
-UPDATE operation -> long touch on an item
+**UPDATE** operation -> long touch on an item
 
-DELETE operation -> swipe to delete
+**DELETE** operation -> swipe to delete
 
 
 
